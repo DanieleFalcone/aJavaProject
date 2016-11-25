@@ -19,7 +19,7 @@ public class Main {
 			    File fileToSave = fileChooser.getSelectedFile();
 			    System.out.println("Save as file: " + fileToSave.getAbsolutePath());
 			    System.out.println(fileToSave.getName());
-			    System.out.println("this is a new Branch with a new Feature");
+			    System.out.println("this is a n compleatly different feature");
 			}
 	    } 
 	}
